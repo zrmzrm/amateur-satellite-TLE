@@ -62,7 +62,7 @@ LATEST ELSET：[TLE](https://www.space-track.org/basicspacedata/query/class/gp/O
 | 42759          | ZHUHAI-1 02              | 2017-034B  |
 
 
-## 关于 ISSUE
+## 其他
 如有新的业余无线电卫星，请第一时间提醒我添加！非常感谢！
 
 > 请注意, 开发者并没有义务回复您的问题. 您应该具备基本的提问技巧。  
