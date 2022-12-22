@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Commonly-used-amateur-radio-satellites-TLE
+# Commonly used amateur radio satellite - TLE
 
 </div>
 
