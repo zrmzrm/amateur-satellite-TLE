@@ -21,7 +21,18 @@ SATELLITE CATALOG：[list](https://www.space-track.org/basicspacedata/query/clas
 
 LATEST ELSET：[TLE](https://www.space-track.org/basicspacedata/query/class/gp/ORDERBY/EPOCH%20desc/favorites/amateur%20radio%20ephemeris/format/3le/emptyresult/show)
 
-### 卫星列表
+## 最新消息
+由于[space-track.org](https://www.space-track.org/)还没有更新XW-4 (CAS-10)的TLE数据，所以先由[celestrak.org](https://celestrak.org/)查询到的进行使用。
+
+| satellite name | Satellite Catalog Number | COSPAR ID |
+| -------------- | ------------------------ | --------- |
+| 54816          | XW-4 (CAS-10)            | 2021-035C |
+
+    XW-4 (CAS-10)
+    1 54816U 21035C   22355.89551308  .00067843  00000+0  77734-3 0  9999
+    2 54816  41.4765 156.1529 0007424 214.4239 145.6119 15.61131257   474
+
+## 卫星列表
 
 | satellite name | Satellite Catalog Number | COSPAR ID  |
 | -------------- | ------------------------ | ---------- |
@@ -39,6 +50,7 @@ LATEST ELSET：[TLE](https://www.space-track.org/basicspacedata/query/class/gp/O
 | 43803          | JY1SAT (JO-97)           | 2018-099AX |
 | 40931          | LAPAN A2 (IO-86)         | 2015-052B  |
 | 40908          | LILACSAT 2               | 2015-049K  |
+| 53106          | MT-CUBE-2 (IO-117)       | 2022-080B  |
 | 42017          | NAYIF 1 (EO-88)          | 2017-008BX |
 | 43937          | NEXUS (FO-99)            | 2019-003F  |
 | 54684          | CAS-5A (FO-118)          | 2022-167C  |
@@ -58,8 +70,10 @@ LATEST ELSET：[TLE](https://www.space-track.org/basicspacedata/query/class/gp/O
 | 40907          | XW-2D                    | 2015-049J  |
 | 40909          | XW-2E                    | 2015-049L  |
 | 40910          | XW-2F                    | 2015-049M  |
+| 50466          | XW-3 (CAS 9)             | 2021-131B  |
 | 42761          | ZHUHAI-1 01 (CAS-4A)     | 2017-034D  |
 | 42759          | ZHUHAI-1 02 (CAS-4B)     | 2017-034B  |
+
 
 ## 其他
 如有新的业余无线电卫星，请第一时间提醒我添加！非常感谢！
