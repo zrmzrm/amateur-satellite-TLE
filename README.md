@@ -21,7 +21,7 @@ SATELLITE CATALOG：[list](https://www.space-track.org/basicspacedata/query/clas
 
 LATEST ELSET：[TLE](https://www.space-track.org/basicspacedata/query/class/gp/ORDERBY/EPOCH%20desc/favorites/amateur%20radio%20ephemeris/format/3le/emptyresult/show)
 
-## Latest news(December 29, 2022)
+## Latest news(January 2, 2023)
 由于[space-track.org](https://www.space-track.org/)还没有更新XW-4 (CAS-10)的TLE数据，所以先由[celestrak.org](https://celestrak.org/NORAD/elements/gp.php?CATNR=54816)查询到的进行使用。
 
 | COSPAR ID | satellite name | Satellite Catalog Number |
@@ -29,8 +29,8 @@ LATEST ELSET：[TLE](https://www.space-track.org/basicspacedata/query/class/gp/O
 | 54816     | XW-4 (CAS-10)  | 2021-035C                |
 
     XW-4 (CAS-10)
-    1 54816U 21035C   22362.73837358  .00105043  00000+0  11452-2 0  9991
-    2 54816  41.4773 114.4671 0007829 260.1105  99.8850 15.62245499  1543
+    1 54816U 21035C   23001.63695252  .00114928  00000+0  12114-2 0  9994
+    2 54816  41.4774  90.6806 0006662 288.3252  71.6864 15.63080103  2159
 
 ## 卫星列表
 
