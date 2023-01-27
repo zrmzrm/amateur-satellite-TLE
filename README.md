@@ -21,17 +21,6 @@ SATELLITE CATALOG：[list](https://www.space-track.org/basicspacedata/query/clas
 
 LATEST ELSET：[TLE](https://www.space-track.org/basicspacedata/query/class/gp/ORDERBY/EPOCH%20desc/favorites/amateur%20radio%20ephemeris/format/3le/emptyresult/show)
 
-## Latest news(January 8, 2023)
-由于[space-track.org](https://www.space-track.org/)还没有更新XW-4 (CAS-10)的TLE数据，所以先由[celestrak.org](https://celestrak.org/NORAD/elements/gp.php?CATNR=54816)查询到的进行使用。
-
-| COSPAR ID | satellite name | Satellite Catalog Number |
-| --------- | -------------- | ------------------------ |
-| 54816     | XW-4 (CAS-10)  | 2021-035C                |
-
-    XW-4 (CAS-10)
-    1 54816U 21035C   23016.95099094  .00221617  00000+0  19129-2 0  9994
-    2 54816  41.4761 356.8892 0003607  87.9564 272.1709 15.67727253  4552
-
 ## 卫星列表
 
 | COSPAR ID | satellite name        | Satellite Catalog Number |
@@ -73,6 +62,7 @@ LATEST ELSET：[TLE](https://www.space-track.org/basicspacedata/query/class/gp/O
 | 50466     | XW-3 (CAS 9)          | 2021-131B                |
 | 42761     | ZHUHAI-1 01 (CAS-4A)  | 2017-034D                |
 | 42759     | ZHUHAI-1 02 (CAS-4B)  | 2017-034B                |
+| 54816     | XW-4 (CAS-10)         | 2021-035C                |
 
 
 ## 其他
