@@ -21,14 +21,6 @@ SATELLITE CATALOG：[list](https://www.space-track.org/basicspacedata/query/clas
 
 LATEST ELSET：[TLE](https://www.space-track.org/basicspacedata/query/class/gp/ORDERBY/EPOCH%20desc/favorites/amateur%20radio%20ephemeris/format/3le/emptyresult/show)
 
-| COSPAR ID | satellite name | Satellite Catalog Number |
-| --------- | -------------- | ------------------------ |
-| 54816     | XW-4 (CAS-10)  | 2021-035C                |
-
-    XW-4 (CAS-10)
-    1 54816U 21035C   23016.95099094  .00221617  00000+0  19129-2 0  9994
-    2 54816  41.4761 356.8892 0003607  87.9564 272.1709 15.67727253  4552
-
 ## 卫星列表
 
 | COSPAR ID | satellite name        | Satellite Catalog Number |
